@@ -1,34 +1,26 @@
-.row-1 {
-	display: inline-block;
-}
-.row-2 {
-	display: inline-block;
-}
-.row-3 {
-	display: inline-block;
-}
-
-
 .box {
 	width: 150px;
 	height: 150px;
 	background-color: black;
-	margin-top: 16px;
-	margin-left: 16px;
+	margin: 16px;
+	display: inline-block;
+	
 }
 
-.box-2 {
+.box2 {
 	width: 150px;
 	height: 150px;
 	background-color: black;
-	margin-top: 16px;
-	margin-left: 16px;
+	margin: 18px;
+	float: left;
+	
 }
 
-.box-3 {
+.box3 {
 	width: 150px;
 	height: 150px;
 	background-color: black;
-	margin-top: 16px;
-	margin-left: 16px;
+	margin: 18px;
+	position: relative;
+	
 }
